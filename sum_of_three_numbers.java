@@ -12,3 +12,5 @@ public class sum_of_three_numbers {
 
 	}
 }
+
+// its good and clean code 
